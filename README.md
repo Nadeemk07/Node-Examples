@@ -1,3 +1,2 @@
-# node-training
+# node examples
 
-Node Js Examples for Training 
